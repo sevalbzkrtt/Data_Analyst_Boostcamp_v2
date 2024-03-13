@@ -1,0 +1,2 @@
+# Data_Analyst_Boostcamp_v2
+ This repository contains the applications I have completed as part of my participation in the Data Analyst Boostcamp training program, organized in collaboration with Istanbul Data Science Academy and Google Cloud. Throughout this training program, I worked on various real-world datasets using a range of data science tools to enhance my skills in data analysis and processing. I am sharing the experiences gained during this process through this repository.
